@@ -1,8 +1,9 @@
-# Canvas Particle Animation This is a simple web application built using #
+# Canvas Particle Animation #
 
-HTML5 Canvas and JavaScript to create a particle animation effect. Users
-can click on the screen to spawn circles that emit colorful particles
-with a glowing effect.
+This is a simple web application built using HTML5 Canvas 
+and JavaScript to create a particle animation effect. 
+Users can click on the screen to spawn circles that emit colorful 
+particles with a glowing effect.
 
 
 Getting Started To get a local copy of the project up and running,
