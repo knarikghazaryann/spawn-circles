@@ -10,11 +10,7 @@ follow these steps:
 
 Clone the repository: 
 ``` 
-git clone https://github.com/your-username/canvas-particle-animation.git
-```
-to the project directory:
-``` 
-cd canvas-particle-animation
+git clone https://github.com/knarikghazaryann/spawn-circles.git
 ```
 
 Open the index.html file in your preferred web browser.
